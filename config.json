@@ -1,0 +1,5 @@
+{
+    "clustering_threshold": 0.95,
+    "param_leaf_rotation": 90,
+    "num_subsets": 10
+  }
